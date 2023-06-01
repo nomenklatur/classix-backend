@@ -1,7 +1,6 @@
 # Classix Core Service
 > This service contains core functions to Classix.
 > Live demo [_here_](https://www.example.com). 
->  change tests by rey account
 
 
 ## Technologies Used
